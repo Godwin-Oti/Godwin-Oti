@@ -1,6 +1,6 @@
 
 [![MasterHead](https://miro.medium.com/v2/resize:fit:1400/1*g__jiesLRIfCRefVG69Pfw.gif)](https://rishavchanda.io)
-<h1 align="center">Hi 👋, I'm Godwin Oti</h1>
+<h1 align="center">Hi 👋, I'm Oti</h1>
 <h3 align="center">A passionate Data Analyst based in Berlin</h3>
 <h5 align="left">I went from cultivating crops to cultivating minds, and now, I am cultivating insights through data. 
 With 4 years + experience in diverse background spanning Agricultural Science, education and business development, I realized that analyzing complex problems with data and visualizing them could bring my knowledge and academic experience up-to-date in a dynamic city like Berlin.<b>
