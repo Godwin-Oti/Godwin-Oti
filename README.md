@@ -1,5 +1,5 @@
 
-[![MasterHead](https://miro.medium.com/v2/resize:fit:1400/1*g__jiesLRIfCRefVG69Pfw.gif)](https://rishavchanda.io)
+![MasterHead](https://github.com/Godwin-Oti/Godwin-Oti/blob/main/images/Screenshot%202024-05-25%20115128.png)
 <h1 align="center">Hi 👋, I'm Oti</h1>
 <h3 align="center">A passionate Data Analyst based in Berlin</h3>
 <h5 align="left">I went from cultivating crops to cultivating minds, and now, I am cultivating insights through data. 
