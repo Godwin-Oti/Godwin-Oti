@@ -13,7 +13,7 @@ Through my work, I am committed to leveraging data to drive business decisions a
 
 
 
-- 🔭 I’m currently working on [Smart Irrigation System](https://github.com/Godwin-Oti/Smart-Irrigation-System/tree/main)
+- 🔭 I’m currently working on [CO2 Emission](https://github.com/Godwin-Oti/CO2-Emission-Analysis/tree/main)
 
 - 🌱 I’m currently learning **Data Pipeline and Automation**
 
