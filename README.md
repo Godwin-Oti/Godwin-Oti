@@ -2,9 +2,10 @@
 ![MasterHead](https://github.com/Godwin-Oti/Godwin-Oti/blob/main/images/Screenshot%202024-05-25%20115128.png)
 <h1 align="center">Hi 👋, I'm Oti</h1>
 <h3 align="center">A passionate Data Analyst based in Berlin</h3>
-<h5 align="left">I went from cultivating crops to cultivating minds, and now, I am cultivating insights through data. 
-With 4 years + experience in diverse background spanning Agricultural Science, education and business development, I realized that analyzing complex problems with data and visualizing them could bring my knowledge and academic experience up-to-date in a dynamic city like Berlin.<b>
-Through my work, I am committed to leveraging data to drive business decisions and finding creative solutions to challenging problems. I am constantly seeking opportunities to expand my skill set and stay up-to-date with the latest technologies and trends in the industry.</h5>
+<h5 align="left">Self-motivated professional with 4+ years of experience in data analytics, business analysis, and supply chain optimization. I specialize in turning complex data into actionable insights to drive business performance—whether it’s improving sales, forecasting demand, or optimizing operations.
+Skilled in Tableau, Python, SQL, and Machine Learning, I’ve successfully helped businesses reduce costs, improve efficiency, and enhance customer experience. 
+Passionate about collaboration, continuous learning, and leveraging data to unlock new opportunities.
+Let’s connect to explore how we can drive growth and innovation together!.</h5>
 
 <img align="right" alt="Coding" width="400" src="https://tse3.mm.bing.net/th?id=OIP.U9KCxb_HkEp-_NzwpZRl2QHaEw&pid=Api&P=0&h=180">
 
