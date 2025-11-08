@@ -1,5 +1,4 @@
 
-![MasterHead](https://github.com/Godwin-Oti/Godwin-Oti/blob/main/images/Screenshot%202024-05-25%20115128.png)
 <h1 align="center">Hi 👋, I'm Oti</h1>
 <h3 align="center">A passionate Data Analyst based in Berlin</h3>
 <h5 align="left">Self-motivated professional with years of experience in data analytics, business analysis, and supply chain optimization. I specialize in turning complex data into actionable insights to drive business performance—whether it’s improving sales, forecasting demand, or optimizing operations.
@@ -16,7 +15,7 @@ Let’s connect to explore how we can drive growth and innovation together!.</h5
 
 - 🔭 I’m currently working on [CO2 Emission](https://github.com/Godwin-Oti/CO2-Emission-Analysis/tree/main)
 
-- 🌱 I’m currently learning **Data Pipeline and Automation**
+- 🌱 I’m currently learning **Data Pipeline**
 
 - 👨‍💻 All of my projects are available at [https://github.com/godwin-oti](https://github.com/godwin-oti)
 
